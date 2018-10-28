@@ -78,7 +78,7 @@ h2,h3,h4,h5,h6{
 }
 
 .section{
-	padding: 8% 0;
+	padding: 8% 0 ;
 }
 
 
@@ -174,7 +174,7 @@ h2,h3,h4,h5,h6{
 #sec-team{
 	text-transform: uppercase;
 	text-align: center;
-	padding-bottom: 15%;
+	padding-bottom: 20%;
 }
 
 #sec-team h3{
@@ -182,7 +182,7 @@ h2,h3,h4,h5,h6{
 	font-style: italic;
 	font-size: 12px;
 	font-weight: 400;
-	color: black;
+	color: lightgray;
 	margin-top: 30px;
 	margin-bottom: 50px;
 	text-transform:none;
@@ -215,9 +215,9 @@ h2,h3,h4,h5,h6{
     letter-spacing: 1px;
 	font-size: 14px;
 	font-weight: 400;
-	color: black;
+	color: lightgray;
 	margin-top: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 60px;
 	text-transform: capitalize;
 }
 
@@ -264,6 +264,8 @@ letter-spacing: 0;
 	font-size: 25px;
 	padding-bottom: 10px;
 }
+
+
 
 #sec-rest {
 	padding: 40px 0px;
